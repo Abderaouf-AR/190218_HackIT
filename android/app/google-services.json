@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25500793757",
+    "project_id": "next-game-4b136",
+    "storage_bucket": "next-game-4b136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25500793757:android:175f95e26303c043860d74",
+        "android_client_info": {
+          "package_name": "phantom.solutions.next_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25500793757-c0pv3d1nsnr47fs6vnhu9rb3o2t47hlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_1lTYqkzsDn7RW6gwCgRInehngnoH5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25500793757-c0pv3d1nsnr47fs6vnhu9rb3o2t47hlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
